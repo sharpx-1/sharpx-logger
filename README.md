@@ -23,7 +23,7 @@ Discord Bot That Working With Audit Logs!
 
 # To setup the bot you have to:
 
-`Download node.js and Visual Studio Code`
+***Download node.js and Visual Studio Code***
 
 `Step 1: Create a folder and put the files inside!`
 
